@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Prabhune</h1>
 
 <p align="center">
-🎓 Master’s Student @ Carnegie Mellon University <br>
-🤖 AI • Machine Learning • Distributed Systems • Full-Stack Engineering
+🎓 <b>Master’s Student</b> @ Carnegie Mellon University
 </p>
+
+<br>
+
 <p align="center">
-Building intelligent systems that combine machine learning, scalable backend architecture, and data engineering.
+🤖 AI • Machine Learning • Distributed Systems • Full-Stack Engineering
 </p>
 
 ---
