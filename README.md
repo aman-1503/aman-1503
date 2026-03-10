@@ -30,25 +30,31 @@ Building intelligent systems that combine machine learning, scalable backend arc
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🔍 Fraud Intelligence Platform
+AI-powered system for detecting anomalous financial transactions.
 
-<a href="https://github.com/aman-1503/Fraud-Intelligence-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-1503&repo=Fraud-Intelligence-platform&theme=tokyonight"/>
-</a>
+Tech: Python • Scikit-learn • Pandas • SQL • REST APIs
 
-<a href="https://github.com/aman-1503/tartanrag-ai-doc-qa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-1503&repo=tartanrag-ai-doc-qa&theme=tokyonight"/>
-</a>
+---
 
-<a href="https://github.com/aman-1503/NYC-Fashion-Inventory-Consistency-Checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-1503&repo=NYC-Fashion-Inventory-Consistency-Checker&theme=tokyonight"/>
-</a>
+### 📄 TartanRAG – AI Document Question Answering
+Retrieval-Augmented Generation system for answering questions over documents.
 
-<a href="https://github.com/aman-1503/california-home-recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-1503&repo=california-home-recommender&theme=tokyonight"/>
-</a>
+Tech: Python • LangChain • Vector DB • FastAPI
 
-</p>
+---
+
+### 🛍 NYC Fashion Inventory Consistency Checker
+Detects inconsistencies across retail inventory datasets and surfaces anomalies.
+
+Tech: Python • Pandas • React • REST APIs
+
+---
+
+### 📊 California Housing Price Predictor
+Machine learning model predicting housing prices using regression techniques.
+
+Tech: Python • Scikit-learn • Pandas • Jupyter
 
 ---
 
