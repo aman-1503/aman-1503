@@ -22,23 +22,9 @@ Building intelligent systems that combine machine learning, scalable backend arc
 
 ## ⚡ Tech Stack
 
-**💻 Languages**  
-Python • Java • TypeScript • SQL  
-
-**🤖 Machine Learning & AI**  
-Scikit-learn • Pandas • NumPy • TensorFlow • PyTorch  
-
-**⚙️ Backend & Systems**  
-Node.js • REST APIs • Docker • Kubernetes  
-
-**🎨 Frontend**  
-React • Next.js  
-
-**🗄 Databases**  
-PostgreSQL • MongoDB  
-
-**☁️ Cloud & Tools**  
-AWS • Git • Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,nodejs,docker,kubernetes,aws,postgres,mongodb,tensorflow,pytorch,git,linux&perline=8" />
+</p>
 
 ---
 
