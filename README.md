@@ -1,84 +1,84 @@
-<h1 align="center">Hi 👋, I'm Aman Prabhune</h1>
-<h3 align="center">Master’s Student @ Carnegie Mellon | AI & Full-Stack Engineer</h3>
+<h1 align="center">Aman Prabhune</h1>
 
 <p align="center">
-Building scalable systems that combine <b>machine learning, distributed systems, and full-stack engineering</b>.
+Master’s Student @ Carnegie Mellon University  
+AI • Machine Learning • Distributed Systems • Full-Stack Engineering
+</p>
+
+<p align="center">
+Building intelligent systems that combine machine learning, scalable backend architecture, and data engineering.
 </p>
 
 ---
 
-### 🚀 About Me
+## About Me
 
-- 🎓 Master’s in Information Systems Management — **Carnegie Mellon University**
-- 💻 Former Software Engineer (Automation) with experience in enterprise systems
-- 🤖 Passionate about **Machine Learning, AI systems, and scalable backend architecture**
-- 🔍 Interested in **Data Science, ML Engineering, and AI Infrastructure**
-
----
-
-### ⚡ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,typescript,react,nodejs,nextjs,docker,kubernetes,aws,postgres,mongodb,tensorflow,pytorch,git" />
-</p>
+- Master's in **Information Systems Management** — Carnegie Mellon University  
+- Former **Software Engineer (Automation)** building enterprise testing infrastructure  
+- Focused on **Machine Learning Systems, AI applications, and scalable data platforms**  
+- Interested in **Software Engineering, ML and Applied AI, and Infrastructure**
 
 ---
 
-### 🚀 Featured Projects
+## Technical Skills
 
-#### 🔎 Fraud Intelligence Platform
-AI-powered system for detecting anomalous financial transactions.
+**Languages**  
+Python • Java • TypeScript • SQL  
 
-**Tech:** Python • Scikit-learn • Pandas • SQL • REST APIs
+**Machine Learning & AI**  
+Scikit-learn • Pandas • NumPy • TensorFlow • PyTorch  
+
+**Backend & Systems**  
+Node.js • REST APIs • Docker • Kubernetes  
+
+**Frontend**  
+React • Next.js  
+
+**Databases**  
+PostgreSQL • MongoDB  
+
+**Cloud & Tools**  
+AWS • Git • Linux
 
 ---
 
-#### 📄 TartanRAG AI Document QA
-Retrieval Augmented Generation system for answering questions over documents.
+## Selected Projects
 
-**Tech:** Python • LangChain • OpenAI • Vector Databases • FastAPI
+### Fraud Intelligence Platform
+AI system for detecting anomalous financial transactions using machine learning.
 
----
-
-#### 🛍 NYC Fashion Inventory Consistency Checker
-Detects inconsistencies across retail inventory datasets and surfaces anomalies.
-
-**Tech:** Python • Pandas • React • REST APIs
+Tech: Python • Scikit-learn • Pandas • SQL • REST APIs
 
 ---
 
-#### 📊 California Housing Price Predictor
+### TartanRAG – AI Document Question Answering
+Retrieval-Augmented Generation system for answering questions over documents.
+
+Tech: Python • LangChain • Vector Databases • FastAPI
+
+---
+
+### NYC Fashion Inventory Consistency Checker
+Detects inconsistencies across retail inventory systems and flags anomalies.
+
+Tech: Python • Pandas • React • REST APIs
+
+---
+
+### California Housing Price Predictor
 Machine learning model predicting housing prices using regression techniques.
 
-**Tech:** Python • Scikit-learn • Pandas • Jupyter
+Tech: Python • Scikit-learn • Pandas • Jupyter
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman-1503&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-1503&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-1503&theme=tokyo-night"/>
-
----
-
-### 🤝 Connect With Me
+## Connect With Me
 
 LinkedIn  
-https://www.linkedin.com/in/aman-prabhune/
+https://linkedin.com/in/YOURPROFILE
 
 GitHub  
 https://github.com/aman-1503
 
 Email  
-amanprabhune@gmail.com
+amanprabhune@example.com
