@@ -1,8 +1,8 @@
-<h1 align="center">Aman Prabhune</h1>
+<h1 align="center">Hi 👋, I'm Aman Prabhune</h1>
 
 <p align="center">
-Master’s Student @ Carnegie Mellon University  
-AI • Machine Learning • Distributed Systems • Full-Stack Engineering
+🎓 Master’s Student @ Carnegie Mellon University  
+🤖 AI • Machine Learning • Distributed Systems • Full-Stack Engineering
 </p>
 
 <p align="center">
@@ -11,74 +11,74 @@ Building intelligent systems that combine machine learning, scalable backend arc
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Master's in **Information Systems Management** — Carnegie Mellon University  
-- Former **Software Engineer (Automation)** building enterprise testing infrastructure  
-- Focused on **Machine Learning Systems, AI applications, and scalable data platforms**  
-- Interested in **Software Engineering, ML and Applied AI, and Infrastructure**
+- 🎓 Master's in **Information Systems Management — Carnegie Mellon University**
+- 💻 Former **Software Engineer (Automation)** building enterprise systems
+- 🤖 Passionate about **Machine Learning, AI systems, and scalable backend architecture**
+- 📊 Interested in **Data Science, ML Engineering, and AI Infrastructure**
 
 ---
 
-## Technical Skills
+## ⚡ Tech Stack
 
-**Languages**  
+**💻 Languages**  
 Python • Java • TypeScript • SQL  
 
-**Machine Learning & AI**  
+**🤖 Machine Learning & AI**  
 Scikit-learn • Pandas • NumPy • TensorFlow • PyTorch  
 
-**Backend & Systems**  
+**⚙️ Backend & Systems**  
 Node.js • REST APIs • Docker • Kubernetes  
 
-**Frontend**  
+**🎨 Frontend**  
 React • Next.js  
 
-**Databases**  
+**🗄 Databases**  
 PostgreSQL • MongoDB  
 
-**Cloud & Tools**  
+**☁️ Cloud & Tools**  
 AWS • Git • Linux
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### Fraud Intelligence Platform
-AI system for detecting anomalous financial transactions using machine learning.
+### 🔍 Fraud Intelligence Platform
+AI-powered system for detecting anomalous financial transactions.
 
 Tech: Python • Scikit-learn • Pandas • SQL • REST APIs
 
 ---
 
-### TartanRAG – AI Document Question Answering
+### 📄 TartanRAG – AI Document Question Answering
 Retrieval-Augmented Generation system for answering questions over documents.
 
-Tech: Python • LangChain • Vector Databases • FastAPI
+Tech: Python • LangChain • Vector DB • FastAPI
 
 ---
 
-### NYC Fashion Inventory Consistency Checker
-Detects inconsistencies across retail inventory systems and flags anomalies.
+### 🛍 NYC Fashion Inventory Consistency Checker
+Detects inconsistencies across retail inventory datasets and surfaces anomalies.
 
 Tech: Python • Pandas • React • REST APIs
 
 ---
 
-### California Housing Price Predictor
+### 📊 California Housing Price Predictor
 Machine learning model predicting housing prices using regression techniques.
 
 Tech: Python • Scikit-learn • Pandas • Jupyter
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/YOURPROFILE
+💼 LinkedIn  
+https://www.linkedin.com/in/aman-prabhune/
 
-GitHub  
+💻 GitHub  
 https://github.com/aman-1503
 
-Email  
-amanprabhune@example.com
+📧 Email  
+amanprabhune@gmail.com
